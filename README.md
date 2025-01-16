@@ -23,10 +23,13 @@ El cuaderno de Google Colab asociado contiene los pasos para la configuración, 
 
 ## Imágenes Relacionadas
 ### Captura de la Terminal
-![Captura de terminal](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/imagen1.png)
+
+![image](https://github.com/user-attachments/assets/ef1e44bc-70b2-4016-aeb1-71612b37e3a7)
 
 ### Captura de Google Colab
-![Captura de Google Colab](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/imagen2.png)
+![image](https://github.com/user-attachments/assets/5f660783-1808-4546-9afd-927362c3c2b2)
+
+
 
 > **Nota**: Reemplaza `tu_usuario` y `tu_repositorio` con tu nombre de usuario y el nombre de tu repositorio en GitHub.
 

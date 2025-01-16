@@ -56,10 +56,11 @@ for numero in numeros_aleatorios:
     else:
         print(f"El número {numero} es impar.")
 
-## Contribución
 
 
 
+
+## Conclusión
 Conclusión
 Este proyecto demuestra cómo combinar la generación de números aleatorios y el uso de loops en Python para resolver problemas básicos de programación. Estas herramientas son esenciales para abordar tareas computacionales más complejas y proporcionan una base sólida para trabajar en simulaciones, análisis de datos y otros campos de la informática.
 
